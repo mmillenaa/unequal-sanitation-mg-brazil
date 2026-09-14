@@ -21,6 +21,16 @@ The universal provision of public utilities, such as basic sanitation, remains a
 
 **Keywords:** Basic sanitation; Regional inequality; Infrastructure governance
 
+**Figure 1**
+<p align="center">
+  <img src="figures/figure1.png" alt="Figure 1" width="80%">
+</p>
+
+**Figure 7**
+<p align="center">
+  <img src="figures/figure7.png" alt="Figure 7" width="80%">
+</p>
+
 ## Repository Structure
 
 * `data/`: Contains the raw and processed microdata spreadsheets from the National Sanitation Information System (SINISA) for 2023, 2024, and historical time series.
