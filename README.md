@@ -1,7 +1,6 @@
 # Unequal sanitation in the Global South: infrastructure and governance shortfalls in northern Minas Gerais, Brazil
 
 <a href="https://doi.org/10.1016/j.jup.2026.102343"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.jup.2026.102343-blue.svg" alt="DOI: Article"></a>
-<a href="#"><img src="https://img.shields.io/badge/DOI-Zenodo_Pending-red.svg" alt="DOI: Data & Code"></a>
 <a href="https://www.sciencedirect.com/science/article/pii/S095717872600202X"><img src="https://img.shields.io/badge/Open_Access-Yes-success.svg" alt="Open Access"></a>
 <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="License: CC BY-NC 4.0"></a>
 <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/Made_with-R-276DC3.svg?logo=R" alt="Made with R"></a>
