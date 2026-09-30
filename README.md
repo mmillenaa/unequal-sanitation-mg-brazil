@@ -48,10 +48,12 @@ If you use the data or scripts in this repository, please cite the original arti
 
 ```bibtex
 @article{UtilitiesPolicy2027,
+  author = {Antônia Valdirene Teixeira Miranda Franco and Millena Miranda Franco and Iasmim Miranda Franco},
   title = {Unequal sanitation in the Global South: infrastructure and governance shortfalls in northern Minas Gerais, Brazil},
   journal = {Utilities Policy},
   year = {2027},
   issn = {0957-1787},
-  doi = {[https://doi.org/10.1016/j.jup.2026.102343](https://doi.org/10.1016/j.jup.2026.102343)},
-  url = {[https://www.sciencedirect.com/science/article/pii/S095717872600202X](https://www.sciencedirect.com/science/article/pii/S095717872600202X)}
+  doi = {10.1016/j.jup.2026.102343},
+  url = {https://www.sciencedirect.com/science/article/pii/S095717872600202X}
 }
+
