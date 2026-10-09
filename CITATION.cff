@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use the data or scripts in this repository, please cite the original article."
+type: dataset
+title: "Replication Data for: Unequal sanitation in the Global South"
+authors:
+  - family-names: "Franco"
+    given-names: "Antônia Valdirene Teixeira Miranda"
+  - family-names: "Franco"
+    given-names: "Millena Miranda"
+  - family-names: "Franco"
+    given-names: "Iasmim Miranda"
+url: "https://github.com/SEU_USUARIO/SEU_REPOSITORIO"
+preferred-citation:
+  type: article
+  title: "Unequal sanitation in the Global South: infrastructure and governance shortfalls in northern Minas Gerais, Brazil"
+  authors:
+    - family-names: "Franco"
+      given-names: "Antônia Valdirene Teixeira Miranda"
+    - family-names: "Franco"
+      given-names: "Millena Miranda"
+    - family-names: "Franco"
+      given-names: "Iasmim Miranda"
+  journal: "Utilities Policy"
+  year: 2027
+  issn: "0957-1787"
+  doi: "10.1016/j.jup.2026.102343"
+  url: "https://www.sciencedirect.com/science/article/pii/S095717872600202X"
