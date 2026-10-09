@@ -1,18 +1,19 @@
 # Security Policy
 
 ## Context
-The applications in this repository are static pages: there is no backend server, no login mechanism, and no user data collection. The realistic security risks are confined to the browser environment — for example, script injection through crafted data or a compromised third-party library.
+This repository provides replication data, microdata worksheets, and R scripts for academic purposes. It does not host a web application, web server, or collect user data. 
 
-## Supported Versions
-Only the latest release on the `main` branch receives security updates and bug fixes.
+## Data Privacy
+The datasets provided are derived from the National Sanitation Information System (SINISA). They consist of institutional and infrastructural aggregate data at the municipal level and do not contain any Personally Identifiable Information (PII) or sensitive personal data.
 
-## Reporting a Vulnerability
-Please do not open a public issue for security vulnerabilities. Instead, report them privately using one of the following methods:
+## Security Risks & Safe Execution
+The realistic security risks involve the local execution of R scripts on the user's machine or potential spreadsheet vulnerabilities. 
+* All R scripts (`.R`) are plain text and can be inspected before execution.
+* Data files (`.csv`, `.xlsx`) are provided strictly as raw data containers without executable macros. Users are encouraged to verify this before opening them in spreadsheet software.
 
-1. **GitHub Private Reporting:** Go to the Security tab → Report a vulnerability.
-2. **Email:** Send a message directly to millena@usp.br.
+## Reporting a Vulnerability or Data Issue
+If you discover a security issue (e.g., a malicious dependency in the R scripts) or an unintended inclusion of sensitive personal data, please do not open a public issue. 
 
-Please include the affected page, the steps to reproduce the issue, and the expected impact. You will receive an acknowledgment within ten working days.
+Report it privately by emailing: millena@usp.br. 
 
-## Third-Party Libraries
-We strive to keep third-party dependencies up to date and load them securely. If you identify a vulnerability originating from an external library used in this project, please report it following the steps above so we can patch or replace the dependency.
+Please include the affected file and a brief description of the concern. You will receive an acknowledgment within ten working days.
